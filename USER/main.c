@@ -120,8 +120,8 @@ void updateAlarmClockDisplay() {
 
 void updateNormalDisplay() {
     LCD_Clear(WHITE);
-    LCD_ShowString(30, 110, "NAME: EVNAT HASIB", POINT_COLOR);
-    LCD_ShowString(30, 130, "ID: 202224404002", POINT_COLOR);
+    LCD_ShowString(30, 110, "NAME: Tanvir Ahamed", POINT_COLOR);
+    LCD_ShowString(30, 130, "ID: https://github.com/tanvir-ahamed04", POINT_COLOR);
     LCD_ShowString(30, 150, "DATE: 2024/12/20", POINT_COLOR);
     LCD_ShowString(30, 170, "FRIDAY", POINT_COLOR);
 }
