@@ -1,4 +1,3 @@
-```markdown
 # STM32F103 Clock Using Keil uVision
 
 ## Description
